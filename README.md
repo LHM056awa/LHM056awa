@@ -4,10 +4,10 @@
 
 ## 项目
 
-- [ExpRule](https://github.com/Lustrous-Hope-Makes-Dreams-Radiance/ExpRule)  
-  所在组织维护的 Minecraft 服务器插件。
-- [CrCraft-Info](https://github.com/LHM056awa/CrCraft-Info)  
-  Minecraft 服务器 *CrCraft* 的公开资料库，收录玩法文档、历史与公告。
+- [ExpRule](https://github.com/Lustrous-Hope-Makes-Dreams-Radiance/ExpRule): 维护的 Minecraft 服务器插件。
+- [CrCraft-Info](https://github.com/LHM056awa/CrCraft-Info): Minecraft 服务器 *CrCraft* 的公开资料库，收录玩法文档、历史与公告。
+- [Minecraft-Book-Printer](https://github.com/Lustrous-Hope-Makes-Dreams-Radiance/Minecraft-Book-Printer-cpp): 自动制作 Minecraft 书籍的工具。
+
 <!--
 **LHM056awa/LHM056awa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
