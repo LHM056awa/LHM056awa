@@ -1,11 +1,11 @@
 # LHM
 
-一个喜欢瞎折腾的普通玩家，专注于 Minecraft 服务器运营与维护，偶尔写点神秘小工具。
+运营与维护 Minecraft 服务器，偶尔写点神秘小工具。
 
 ## 项目
 
-- [ExpRule](https://github.com/Lustrous-Hope-Makes-Dreams-Radiance/ExpRule): 维护的 Minecraft 服务器插件。
-- [CrCraft-Info](https://github.com/LHM056awa/CrCraft-Info): Minecraft 服务器 *CrCraft* 的公开资料库，收录玩法文档、历史与公告。
+- [CrCraft-Info](https://github.com/LHM056awa/CrCraft-Info): Minecraft 永久服务器 **CrCraft** 的公开资料库，收录玩法文档、历史与公告。
+- [ExpRule](https://github.com/Lustrous-Hope-Makes-Dreams-Radiance/ExpRule): Minecraft 经验掉落规则插件。
 - [Minecraft-Book-Printer](https://github.com/Lustrous-Hope-Makes-Dreams-Radiance/Minecraft-Book-Printer-cpp): 自动制作 Minecraft 书籍的工具。
 
 <!--
