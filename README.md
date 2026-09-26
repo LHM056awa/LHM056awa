@@ -6,7 +6,7 @@
 
 - [CrCraft-Info](https://github.com/LHM056awa/CrCraft-Info): Minecraft 永久服务器 **CrCraft** 的公开资料库，收录玩法文档、历史与公告。
 - [ExpRule](https://github.com/Lustrous-Hope-Makes-Dreams-Radiance/ExpRule): Minecraft 经验掉落规则插件。
-- [Minecraft-Book-Printer](https://github.com/Lustrous-Hope-Makes-Dreams-Radiance/Minecraft-Book-Printer-cpp): 自动制作 Minecraft 书籍的工具。
+- [Minecraft-Book-Printer](https://github.com/LHM056awa/Minecraft-Book-Printer): 自动制作 Minecraft 书籍的工具。
 - [EndVoidRescue](https://github.com/LHM056awa/EndVoidRescue): 一个为 **CrCraft** 服务器实现末地虚空救援方案的插件。
 
 <!--
