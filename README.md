@@ -1,7 +1,5 @@
 # LHM
 
-运营与维护 Minecraft 服务器，偶尔写点神秘小工具。
-
 ## 项目
 
 - [CrCraft-Info](https://github.com/LHM056awa/CrCraft-Info): Minecraft 永久服务器 **CrCraft** 的公开资料库，收录玩法文档、历史与公告。
