@@ -1,5 +1,7 @@
 # LHM
 
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=LHM056awa&layout=compact&theme=radical&langs_count=10)](https://github.com/LHM056awa)
+
 ## 项目
 
 - [CrCraft-Info](https://github.com/LHM056awa/CrCraft-Info): Minecraft 永久服务器 **CrCraft** 的公开资料库，收录玩法文档、历史与公告。
