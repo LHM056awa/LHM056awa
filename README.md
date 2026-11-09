@@ -1,6 +1,6 @@
 # LHM
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=LHM056awa&layout=compact&langs_count=10&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=html,css,markdown)](https://github.com/LHM056awa)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=LHM056awa&layout=compact&langs_count=10&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=html,css,markdown,mdx,astro)](https://github.com/LHM056awa)
 
 ## 项目
 
