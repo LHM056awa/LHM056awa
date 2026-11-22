@@ -1,5 +1,7 @@
 # LHM
 
+[![LHM's GitHub Stats](https://github-stats-extended.vercel.app/api?username=LHM056awa&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/LHM056awa)
+
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=LHM056awa&layout=compact&langs_count=10&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=html,css,markdown,mdx,astro)](https://github.com/LHM056awa)
 
 ## 项目
